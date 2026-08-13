@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 13 | 10 |
+| 14 | 11 |
 
 ---
 
@@ -16,9 +16,10 @@
 - [brute force](#brute-force) (4)
 - [constructive algorithms](#constructive-algorithms) (2)
 - [games](#games) (1)
-- [greedy](#greedy) (5)
+- [geometry](#geometry) (1)
+- [greedy](#greedy) (6)
 - [implementation](#implementation) (2)
-- [math](#math) (6)
+- [math](#math) (7)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (2)
 - [strings](#strings) (2)
@@ -53,10 +54,17 @@
 |---|---------|------------|----------|
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/kayshamotiani2007/CodeForces-Solutions/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
 
+### geometry
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1806A | [Walking Master](https://codeforces.com/contest/1806/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/kayshamotiani2007/CodeForces-Solutions/blob/HEAD/1806/A%20-%20Walking%20Master/solution.cpp) |
+
 ### greedy
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1806A | [Walking Master](https://codeforces.com/contest/1806/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/kayshamotiani2007/CodeForces-Solutions/blob/HEAD/1806/A%20-%20Walking%20Master/solution.cpp) |
 | 1853A | [Desorting](https://codeforces.com/contest/1853/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/kayshamotiani2007/CodeForces-Solutions/blob/HEAD/1853/A%20-%20Desorting/solution.cpp) |
 | 1857A | [Array Coloring](https://codeforces.com/contest/1857/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/kayshamotiani2007/CodeForces-Solutions/blob/HEAD/1857/A%20-%20Array%20Coloring/solution.cpp) |
 | 1878A | [How Much Does Daytona Cost?](https://codeforces.com/contest/1878/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/kayshamotiani2007/CodeForces-Solutions/blob/HEAD/1878/A%20-%20How%20Much%20Does%20Daytona%20Cost%3F/solution.cpp) |
@@ -74,6 +82,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1806A | [Walking Master](https://codeforces.com/contest/1806/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/kayshamotiani2007/CodeForces-Solutions/blob/HEAD/1806/A%20-%20Walking%20Master/solution.cpp) |
 | 1853A | [Desorting](https://codeforces.com/contest/1853/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/kayshamotiani2007/CodeForces-Solutions/blob/HEAD/1853/A%20-%20Desorting/solution.cpp) |
 | 1857A | [Array Coloring](https://codeforces.com/contest/1857/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/kayshamotiani2007/CodeForces-Solutions/blob/HEAD/1857/A%20-%20Array%20Coloring/solution.cpp) |
 | 1866A | [Ambitious Kid](https://codeforces.com/contest/1866/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/kayshamotiani2007/CodeForces-Solutions/blob/HEAD/1866/A%20-%20Ambitious%20Kid/solution.cpp) |
